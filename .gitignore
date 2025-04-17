@@ -1,0 +1,22 @@
+# Ambiente virtuale
+venv/
+env/
+
+# File di ambiente
+.env
+
+# File di log
+*.log
+
+# File di dati
+positions_log.csv
+positions_log.txt
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File Python
+__pycache__/
+*.py[cod]
+*$py.class 

@@ -1,0 +1,5 @@
+requests==2.31.0
+pandas==2.2.0
+schedule==1.2.1
+geopy==2.4.1
+python-dotenv==1.0.1 
