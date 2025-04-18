@@ -2,4 +2,7 @@ requests==2.31.0
 pandas==2.2.0
 schedule==1.2.1
 geopy==2.4.1
-python-dotenv==1.0.1 
+python-dotenv==1.0.1
+folium==0.15.0
+selenium==4.16.0
+uuid==1.30 
