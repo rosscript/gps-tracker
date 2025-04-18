@@ -993,7 +993,7 @@ def send_position_update(lat, lon, address, timestamp, speed, battery):
 
 def send_telegram_files():
     try:
-        global last_sent_hash
+        global last_sent_hash, updates_since_last_send
         
         # Verifica se ci sono stati aggiornamenti dal precedente invio
         if not updates_since_last_send:
